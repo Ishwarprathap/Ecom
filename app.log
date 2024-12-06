@@ -1,0 +1,72 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 995-076-956
+INFO:werkzeug: * Detected change in 'c:\\Users\\Ishwar\\Desktop\\block chain\\Ecommerece_security\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 995-076-956
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 995-076-956
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 995-076-956
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2024 12:51:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2024 13:02:06] "[33mPOST /register%0A HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2024 13:02:17] "[33mPOST /register%0A HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2024 13:02:19] "[33mPOST /register%0A HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2024 13:02:20] "[33mPOST /register%0A HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2024 13:02:33] "[33mPOST /%0A HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 995-076-956
+2024-12-06 13:09:53,778 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-06 13:09:53,778 [33mPress CTRL+C to quit[0m
+2024-12-06 13:09:53,778  * Restarting with stat
+2024-12-06 13:09:54,332  * Debugger is active!
+2024-12-06 13:09:54,337  * Debugger PIN: 995-076-956
+2024-12-06 13:10:13,862 Root Route Accessed:  | Time: 2024-12-06 13:10:13
+2024-12-06 13:10:13,862 127.0.0.1 - - [06/Dec/2024 13:10:13] "GET / HTTP/1.1" 200 -
+2024-12-06 13:10:14,719 Root Route Accessed:  | Time: 2024-12-06 13:10:14
+2024-12-06 13:10:14,719 127.0.0.1 - - [06/Dec/2024 13:10:14] "GET / HTTP/1.1" 200 -
+2024-12-06 13:13:32,323  * Detected change in 'c:\\Users\\Ishwar\\Desktop\\block chain\\Ecommerece_security\\app.py', reloading
+2024-12-06 13:13:32,375  * Restarting with stat
+2024-12-06 13:13:33,039  * Debugger is active!
+2024-12-06 13:13:33,044  * Debugger PIN: 995-076-956
+2024-12-06 13:13:33,915 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-06 13:13:33,915 [33mPress CTRL+C to quit[0m
+2024-12-06 13:13:33,917  * Restarting with stat
+2024-12-06 13:13:34,469  * Debugger is active!
+2024-12-06 13:13:34,472  * Debugger PIN: 995-076-956
+2024-12-06 13:14:02,683 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-06 13:14:02,683 [33mPress CTRL+C to quit[0m
+2024-12-06 13:14:02,686  * Restarting with stat
+2024-12-06 13:14:03,274  * Debugger is active!
+2024-12-06 13:14:03,279  * Debugger PIN: 995-076-956
+2024-12-06 13:21:25,103  * Detected change in 'C:\\Users\\Ishwar\\Desktop\\block chain\\Ecommerece_security\\app.py', reloading
+2024-12-06 13:21:25,170  * Restarting with stat
+2024-12-06 13:21:32,237 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-06 13:21:32,237 [INFO] [33mPress CTRL+C to quit[0m
+2024-12-06 13:21:32,243 [INFO]  * Restarting with stat
+2024-12-06 13:21:32,825 [WARNING]  * Debugger is active!
+2024-12-06 13:21:32,831 [INFO]  * Debugger PIN: 995-076-956
+2024-12-06 13:22:09,779 [INFO] 127.0.0.1 - - [06/Dec/2024 13:22:09] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-12-06 13:22:21,253 [INFO] 127.0.0.1 - - [06/Dec/2024 13:22:21] "GET / HTTP/1.1" 200 -
+2024-12-06 13:25:31,688 [INFO]  * Detected change in 'c:\\Users\\Ishwar\\Desktop\\block chain\\Ecommerece_security\\app.py', reloading
+2024-12-06 13:25:31,739 [INFO]  * Restarting with stat
